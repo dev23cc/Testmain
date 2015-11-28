@@ -15,7 +15,7 @@ public class Test1arxiko {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println(System.getProperty("os.name"));
+        System.out.println("os name "+ System.getProperty("os.name"));
         // TODO code application logic here
     }
     
